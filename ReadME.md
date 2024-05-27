@@ -91,7 +91,7 @@ if btn:
         res = model.invoke({'input': entrada})
         # Exibe o resumo
         st.write(res.content)
-
+```
 ## Autor
 
 - [@matheusbnc](https://github.com/matheusbnc)
